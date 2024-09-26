@@ -1,8 +1,8 @@
-**Twitter Data Analysis with API**
+## Twitter Data Analysis with API
 
 This is a Flask-based API for analyzing a dataset of tweets. The API allows you to filter tweets by a search term and returns analysis results like the number of tweets per day, the number of unique users, average likes, and more.
 
-## Getting Started
+**Getting Started**
 Install necessary Python libraries pandas and flask
 
 Download the Python file (SilverSpace_Project.py) to your local machine.
@@ -15,7 +15,7 @@ Navigate to the folder where you have saved your Python script in your terminal 
 Run the following command:
 python SilverSpace_Project.py
 
-## Access the API:
+**Access the API**
 
 After running the script, you will see a message like:
 csharp
